@@ -1,0 +1,1 @@
+{"schema": [{"column": "c1", "type": "string"}, {"column": "c2", "type": "string"}], "rows": [["yay1", "nay1"], ["yay2", "nay2"], ["yay3", "nay3"]]}
