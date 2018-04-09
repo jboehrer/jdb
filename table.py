@@ -51,14 +51,14 @@ class Row:
                 return self.values[index]
         return None
 
-schema = [{'column':'c1', 'type':'string'},{'column':'c2', 'type':'string'}]
-new_row1 = ['yay1', 'nay1']
-new_row2 = ['yay2', 'nay2']
-new_row3 = ['yay3', 'nay3']
-table = Table.load('./data')
-print(table.getJson())
-repo = Repo('.')
-index = repo.index
+#schema = [{'column':'c1', 'type':'string'},{'column':'c2', 'type':'string'}]
+#new_row1 = ['yay1', 'nay1']
+#new_row2 = ['yay2', 'nay2']
+#new_row3 = ['yay3', 'nay3']
+#table = Table.load('./data')
+#print(table.getJson())
+#repo = Repo('.')
+#index = repo.index
 #index.add(['./data.py'])
 
 
